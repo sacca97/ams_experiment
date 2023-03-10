@@ -1,0 +1,40 @@
+CVE-2019-17567
+    - Backport to v2.4: *) mod_proxy_http: handle upgrade/tunneling...
+    - 3
+
+CVE-2019-0207   
+    - In resource code, handling backslash as path separator better
+    - 3
+
+CVE-2019-13209
+    - Add websocket origin check
+    - 3
+
+CVE-2019-12423
+    - Some updates to the OIDC JWK Keys service
+    - 7
+
+CVE-2019-12407
+    - 2.11.0-M5-git-02 [JSPWIKI-1111] WYSIWYG xss fixes, web app manifest
+    - 5
+
+CVE-2019-10240
+    - Fix Vaadin Addon repo url (#813) Signed-off-by: Kai Zimmermann
+    - 4
+
+CVE-2019-10077
+    - 2.11.0-M4-git-05, [JSPWIKI-1108] interwiki link escape illegal chars
+    - 7
+
+CVE-2019-3810
+    - MDL-64372 userpix: Escape fullname string on userpix index page
+    - 10
+
+CVE-2020-1937
+    - n.a.
+
+CVE-2019-0219
+    - n.a.
+
+CVE-2019-11269
+    - n.a.
