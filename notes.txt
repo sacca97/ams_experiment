@@ -38,3 +38,11 @@ CVE-2019-0219
 
 CVE-2019-11269
     - n.a.
+
+MAPPING
+    - norules : simola_tJadWTeB1xvS51j1wbaMa9
+        - relevance : ezaEogJmHHjBDtnrgmXZe6
+        - time : fuoti6jx9EF8hBfrS6wMet
+    - rules : simola_bb5UWKxeAvTgRYecdLEhhh
+        - relevance : 87z5ZbDAnu52CAR1F6BGtX
+        - time : uxTr66w8RuwjZ6qfCkYZMR
